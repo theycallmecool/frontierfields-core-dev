@@ -1,0 +1,13 @@
+{
+  "itemGroup.frontierfieldscore": "Example Mod Tab",
+  "block.frontierfieldscore.example_block": "Example Block",
+  "item.frontierfieldscore.example_item": "Example Item",
+
+  "frontierfieldscore.configuration.title": "FrontierFields-Core Configs",
+  "frontierfieldscore.configuration.section.frontierfieldscore.common.toml": "FrontierFields-Core Configs",
+  "frontierfieldscore.configuration.section.frontierfieldscore.common.toml.title": "FrontierFields-Core Configs",
+  "frontierfieldscore.configuration.items": "Item List",
+  "frontierfieldscore.configuration.logDirtBlock": "Log Dirt Block",
+  "frontierfieldscore.configuration.magicNumberIntroduction": "Magic Number Text",
+  "frontierfieldscore.configuration.magicNumber": "Magic Number"
+}
